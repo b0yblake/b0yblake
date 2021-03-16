@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them. ⚡
+⚡ Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them. - Zaha Hadid ⚡
 
 <!--
 **b0yblake/b0yblake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
