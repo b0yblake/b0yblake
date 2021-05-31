@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I was born in FE on 09/2020. So, I'm kid 👶 Now I'm working as a web frontend developer.
+> I was born in FE on 09/2020. So, I'm kid 👶 Now I'm working as a web frontend developer.
 
 **Languages and Tools:**  
 
