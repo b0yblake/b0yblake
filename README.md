@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 > I'm working as a web frontend developer. <br>
-> When I walk along with two others, they may serve me as my teachers - KhongTu <br>
+> When I walk along with two others, they may serve me as my teachers - Khổng Tử (Confucius) <br>
 
 **Languages and Tools:**  
 
